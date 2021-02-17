@@ -1,6 +1,6 @@
 # vuex-console-log
 
-```vue
+```js
 const store = [...document.querySelectorAll('*')]
   .find(el => el.__vue__)
   .__vue__
